@@ -18,3 +18,11 @@ section {
 a {
   text-decoration: none;
 }
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
